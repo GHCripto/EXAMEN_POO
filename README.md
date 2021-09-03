@@ -1,0 +1,3 @@
+# EXAMEN_POO
+Cevallos Pinargote Julio César...
+Patrón de Diseño Builder del examen final de Programación Orientada a Objetos, 3C.
